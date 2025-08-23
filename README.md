@@ -10,8 +10,8 @@ It personalizes the terminal by displaying your chosen team name at the start of
 ## Installation  
 just copy and paste
 
-1. 1st Look  
-   ```bash
+#1. 1st Look  
+    ```bash
    nano ~/.bashrc
    PS1='\[\e[1;34m\]┌──(\[\e[1;31m\]ROOT\[\e[1;37m\]VOID\[\e[1;34m\]㉿\[\e[1;36m\]TERMUX\[\e[1;34m\])-[\[\e[1;33m\]\w\[\e[1;34m\]]\n\[\e[1;34m\]└─\[\e[1;36m\] € \[\e[0m\]'
     ```
@@ -20,7 +20,7 @@ just copy and paste
 ![WhatsApp Image 2025-08-24 at 01 01 24_af6329c8](https://github.com/user-attachments/assets/7a19fb63-c599-43ea-9c79-219692e39f8e)
 
    
-2. 2nd Look
+#2. 2nd Look
     ```bash
    nano ~/.bashrc
    PS1='\[\e[1;33m\]ROOTVOID\[\e[1;34m\][\[\e[1;36m\]\w\[\e[1;34m\]]\[\e[0;32m\]:\[\e[1;31m\]# \[\e[0m\]'
