@@ -26,7 +26,7 @@ just copy and paste
    PS1='\[\e[1;33m\]ROOTVOID\[\e[1;34m\][\[\e[1;36m\]\w\[\e[1;34m\]]\[\e[0;32m\]:\[\e[1;31m\]# \[\e[0m\]'
     ```
 
-    ![WhatsApp Image 2025-08-24 at 01 01 23_50ee4181](https://github.com/user-attachments/assets/24dde9b0-d13f-4e79-94d8-b84320c761e3)
+   ![WhatsApp Image 2025-08-24 at 01 01 23_50ee4181](https://github.com/user-attachments/assets/24dde9b0-d13f-4e79-94d8-b84320c761e3)
 
 ##Full ANSI color reference (basic set).
  ```bash
