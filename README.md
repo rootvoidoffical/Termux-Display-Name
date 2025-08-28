@@ -28,7 +28,7 @@ just copy and paste
 
    ![WhatsApp Image 2025-08-24 at 01 01 23_50ee4181](https://github.com/user-attachments/assets/24dde9b0-d13f-4e79-94d8-b84320c761e3)
 
-##Full ANSI color reference (basic set).
+## Full ANSI color reference (basic set).
  ```bash
  Code	               Color
 
@@ -42,7 +42,7 @@ just copy and paste
 \e[36m	             Cyan
 \e[37m	             White / Light Gray
 ```
-##Bright versions (bold or high-intensity)
+## Bright versions (bold or high-intensity)
  ```bash
 Code	              Color
 
@@ -56,7 +56,7 @@ Code	              Color
 \e[1;37m	          Bright White
 ```
 
-##Other useful styles:
+## Other useful styles:
  ```bash
 Code	             Effect
 \e[1m	             Bold / Bright
